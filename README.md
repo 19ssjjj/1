@@ -110,6 +110,7 @@ python src/make_figs.py
 - 数据仅用于个人求职研究与学习，不转售、不批量公开原始数据
 - 不采集任何求职者个人信息
 
-## License
+
+
 
 MIT License，详见 [LICENSE](LICENSE)。数据本身不随仓库分发，需自行按上述步骤采集。
